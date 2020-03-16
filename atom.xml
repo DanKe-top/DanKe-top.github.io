@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DanKe-top.github.io</id>
-    <title>丹客的Home</title>
-    <updated>2020-03-16T12:14:20.271Z</updated>
+    <title>DanKe&apos;s Blog</title>
+    <updated>2020-03-16T12:24:55.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://DanKe-top.github.io"/>
     <link rel="self" href="https://DanKe-top.github.io/atom.xml"/>
     <subtitle>天将降大任于斯人也，必先苦其心志，劳其筋骨，饿其体肤，空乏其身，行拂乱其所为也，所以动心忍性，增益其所不能。——《孟子》</subtitle>
     <logo>https://DanKe-top.github.io/images/avatar.png</logo>
     <icon>https://DanKe-top.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 丹客的Home</rights>
+    <rights>All rights reserved 2020, DanKe&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[2020.03.16]]></title>
         <id>https://DanKe-top.github.io/post/20200316/</id>
